@@ -1,0 +1,4 @@
+resources:
+- index-html-configmap.yml
+- my-deployment.yml
+- my-service.yml

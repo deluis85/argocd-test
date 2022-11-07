@@ -1,0 +1,7 @@
+resources:
+- ../../base
+
+namespace: default
+
+patchesStrategicMerge:
+- index-html-configmap.yml
