@@ -7,7 +7,7 @@ spec:
   destination:
     namespace: work
     server: https://kubernetes.default.svc 
-  project: default 
+  project: work 
   source: 
     path: overlays/work
     repoURL: https://github.com/deluis85/argocd-test
