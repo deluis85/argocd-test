@@ -5,3 +5,4 @@ namespace: work
 
 patchesStrategicMerge:
 - index-html-configmap-patch.yml
+- deployment-patch.yml
